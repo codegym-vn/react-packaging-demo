@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "RN Demo App",
+    "icon": "./src/assets/logo.png",
+    "version": "1.0.0",
+    "slug": "rn-demo-app",
+    "sdkVersion": "27.0.0",
+    "ios": {
+      "bundleIdentifier": "vn.codegym.rn.demoapp"
+    },
+    "android": {
+      "package": "vn.codegym.rn.demoapp"
+    }
+  }
+}
